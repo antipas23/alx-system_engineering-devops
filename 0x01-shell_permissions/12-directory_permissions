@@ -1,2 +1,2 @@
 #!/bin/bash
-chdir -m 751 my_dir
+ckdir -m 751 my_dir
