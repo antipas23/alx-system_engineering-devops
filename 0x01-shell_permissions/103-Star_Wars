@@ -1,2 +1,2 @@
 #!/bin/bash
-mplayer https://www.youtube.com/watch?v=vLgsf8Pei6Q
+telnet towel.blinkenlights.nl
